@@ -16,7 +16,7 @@ Welcome to the Speed Typing Test project! This is a terminal-based typing speed 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/kartik1280/WPM-Typing-Test
+git clone https://github.com/yourusername/WPM-Typing-Test
 cd speed-typing-test
 
 2. Install dependencies:
